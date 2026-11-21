@@ -31,8 +31,8 @@ Countries used: **US, GB, IN** (46,230 rows loaded in total, above the 40,000 mi
 
 **Locally (Jupyter)**
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO/part1_python_foundations
+git clone https://github.com/Abirami-02/trendpulse.git
+cd trendpulse/part1_python_foundations
 pip install -r requirements.txt
 jupyter notebook TrendPulse_Part1.ipynb
 ```
